@@ -1,0 +1,83 @@
+
+### Eclipse ###
+.classpath
+.project
+.settings
+Java/bin
+
+.svn
+*.swp
+*.swo
+*.swn
+.DS_Store
+.gradle
+build/
+dist/
+lib/
+nbproject/
+nbbuild.xml
+.idea/
+.settings/
+bin/
+
+demo/*
+
+
+### PROJECT FILES ###
+Java/src/main/resources/tags/
+Java/src/main/webapp/WEB-INF/tags/
+Java/src/main/resources/build.properties
+Java/src/main/resources/db/sql/election.sql
+Java/src/main/resources/election.properties
+Java/src/main/resources/jetty-env.xml
+Java/src/main/resources/logback.xml
+Java/src/main/resources/web.xml
+Java/src/main/resources/election.tld
+Java/src/main/webapp/WEB-INF/db/sql/election.sql
+Java/src/main/webapp/WEB-INF/election.properties
+Java/src/main/webapp/WEB-INF/jetty-env.xml
+Java/src/main/webapp/WEB-INF/logback.xml
+Java/src/main/webapp/WEB-INF/web.xml
+Java/src/main/webapp/WEB-INF/election.tld
+Java/lib
+
+Java/doc/JavaDoc
+
+Java/demo
+
+!Java/src/main/java/dk/tv2/election/fontend/tags
+
+### NetBeans template
+Java/nbproject/
+Java/nbbuild/
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+build.xml
+.nb-gradle/
+nbbuild.xml
+### Gradle template
+.gradle
+build/
+
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+/Java/nbproject/private/
+
+
+### Mac ###
+.DS_Store
+
+### Eclipse ###
+.classpath
+.project
+.settings
+Java/bin
+
+
+### Project ###
